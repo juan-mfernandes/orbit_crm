@@ -1,6 +1,6 @@
 # Orbit CRM
 
-Plataforma SaaS de gerenciamento de clientes construída como projeto de estudo para aprofundar conhecimentos em arquitetura com Next.js, tRPC, Drizzle, Redis e BullMQ.
+Plataforma SaaS de gerenciamento de clientes construída como projeto de estudo para aprofundar e aprimorar meus conhecimentos em arquitetura com Next.js, tRPC, Drizzle, Redis e BullMQ.
 
 ## Objetivo
 
